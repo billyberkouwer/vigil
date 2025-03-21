@@ -30,7 +30,7 @@ buttons.forEach((button, index) => {
     });
 })
 
-camera.position.set(4.2, 4, 6)
+camera.position.set(22, 4, 12)
 
 
 function switchCamera(cameraIndex) {
