@@ -1,0 +1,23 @@
+{
+  "name": "vigil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "camera-controls": "^2.10.0",
+    "hammerjs": "^2.0.8",
+    "rollup-plugin-livereload": "^2.0.5",
+    "rollup-plugin-serve": "^3.0.0",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "vite": "^6.1.1"
+  }
+}

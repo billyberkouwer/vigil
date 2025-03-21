@@ -1,0 +1,71 @@
+# Byte-order mark
+*.pyc
+
+# Package files
+__pycache__/
+*.egg-info/
+
+# Python packages
+lib/python/
+
+# Java class files
+*.class
+*.jar
+
+# Eclipse metadata files
+.eclipsebuild/
+.settings/
+
+# Android builds
+*.apk
+*.dex
+
+# Qt files
+*.pro
+*.pri
+*.ui
+*.qrc
+
+# Visual Studio metadata files
+*.suo
+*.user
+*.vspsafe
+*.vssscc
+
+# IntelliJ project files
+*.iml
+*.iws
+
+*.env
+
+# Maven build files
+pom.xml
+
+# Gradle build files
+build/
+settings.gradle
+gradle/
+
+# Node.js modules
+node_modules/
+
+# NuGet packages
+packages/
+
+# Android Studio metadata files
+*.idea/workspace.xml
+*.iml
+
+# Visual Studio Code settings
+settings.json
+
+# Docker containers
+.Docker/*.json
+
+# IntelliJ IDEA 2020.1+
+.idea/workspace.xml
+.idea/tasks.json
+
+# Other IDEs
+*.swp
+*.log
